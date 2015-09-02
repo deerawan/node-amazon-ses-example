@@ -1,0 +1,20 @@
+{
+  "name": "node-amazon-ses-example",
+  "version": "1.0.0",
+  "description": "An example of sending email using Amazon SES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amazon",
+    "ses",
+    "node",
+    "js",
+    "node",
+    "ses",
+    "amazon"
+  ],
+  "author": "Budi Irawan <deerawan@gmail.com> (http://budiirawan.com)",
+  "license": "MIT"
+}
